@@ -3,13 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/pauloaraujo028/web_scrapper">
 	   <h1 align="center">Web Scrapper API</h2>
-  </a>
 
   <h4 align="center">  
     <br />
-    <a href="https://pauloaraujo-portfolio.netlify.app/" target="_blank">Ver Online</a>
+    <a href="https://github.com/pauloaraujo028/web_scrapper/issues/new" target="_blank">Ver Online</a>
     ·
     <a href="https://github.com/pauloaraujo028/web_scrapper/issues/new" target="_blank">Relatar Bug</a>
     ·
